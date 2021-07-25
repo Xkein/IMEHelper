@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMEHelper.Window", "WindowIMEHelper\IMEHelper.Window.csproj", "{C01C7551-EC71-4544-B9DA-CAA13B85DBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01C7551-EC71-4544-B9DA-CAA13B85DBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01C7551-EC71-4544-B9DA-CAA13B85DBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01C7551-EC71-4544-B9DA-CAA13B85DBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01C7551-EC71-4544-B9DA-CAA13B85DBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36D181B-0A09-452B-AAB2-092B50D34C8A}
+	EndGlobalSection
+EndGlobal
